@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "tsc --build",
+    "watch": "tsc --watch"
+  },
+  "dependencies": {
+    "sse.js": "^2.2.0",
+    "watchify": "^4.0.0"
+  }
+}
